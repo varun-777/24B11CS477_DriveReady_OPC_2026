@@ -1,4 +1,4 @@
-# Day 2 – Building Blocks of Agentic AI
+# Day 2 – Prompts, memory and the Python agents need
 
 ## Overview
 
